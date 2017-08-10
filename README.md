@@ -1,6 +1,6 @@
-# code-with-us
+# _Code With Us_
 
-_Code With Us_ is an experiment of the [BC Developers' Exchange](https://bcdevexchange.org/) to find new ways to attract developers to work on public sector tech projects.
+_Code With Us_ is an experiment of the [BCDevExchange](https://bcdevexchange.org/) to find new ways to attract developers to work on public sector tech projects.
 
 ---
 
