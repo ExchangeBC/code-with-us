@@ -2,7 +2,7 @@
 
 # _Code With Us_
 
-Created by the [BC Developers' Exchange](https://bcdevexchange.org/), _Code With Us_ is a lightweight mechanism for public sector organizations to pay developers for code.
+Created by the [BC Developers' Exchange](https://bcdevexchange.org/), _Code With Us_ is a lightweight process for public sector organizations to pay developers for code.
 
 ---
 
