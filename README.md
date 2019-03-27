@@ -8,4 +8,4 @@ Created by the [BC Developers' Exchange](https://bcdevexchange.org/), _Code With
 
 This repo contains: 
 * A [wiki](https://github.com/BCDevExchange/code-with-us/wiki) that explains how _Code With Us_ works
-* The [legal terms](Code%20With%20Us%20Terms_2018-11-05.pdf) that govern _Code With Us_transactions 
+* The [legal terms](Code%20With%20Us%20Terms_2018-11-05.pdf) that govern _Code With Us_ transactions 
