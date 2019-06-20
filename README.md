@@ -1,8 +1,8 @@
 ![image](/images-for-wiki/bcdx-logo.png)
 
-# _Code With Us_
+# Code With Us
 
-Created by the [BC Developers' Exchange](https://bcdevexchange.org/), _Code With Us_ is a lightweight procurement process for public sector organizations to pay developers for code.
+"Code With Us" is a **lightweight procurement mechanism** for public sector organizations to pay developers for code.
 
 ---
 
