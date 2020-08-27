@@ -6,15 +6,15 @@
 
 _Code With Us_ speeds up the transaction between government and developer by using a two-in-one terms + contract. In the process of applying on an opportunity, developers agree to a set of terms and a fixed price contract for meeting stated acceptance criteria. 
 
-_Code With Us_ opportunities are published on [bcdevexchange.org](https://bcdevexchange.org), where developers anywhere in the world can easily apply with a lightweight proposal on opportunities up to $70,000.
+_Code With Us_ opportunities are published on the [Digital Marketplace](https://digital.gov.bc.ca/marketplace), where developers anywhere in the world can easily apply with a lightweight proposal on opportunities up to $70,000.
 
 ---
 
 To see current and past versions of the _Code With Us_ terms, look in the [terms folder](https://github.com/BCDevExchange/code-with-us/tree/master/terms).
 
-To learn how to use _Code With Us_, please explore the pages in [the wiki](https://github.com/BCDevExchange/code-with-us/wiki).
+To learn how to use _Code With Us_, see [digital.gov.bc.ca/marketplace/learn-more/code-with-us](https://digital.gov.bc.ca/marketplace/learn-more/code-with-us) and explore [the wiki](https://github.com/BCDevExchange/code-with-us/wiki) for further details.
 
-To see current and past _Code With Us_ opportunities, visit [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
+To see current and past _Code With Us_ opportunities, visit [digital.gov.bc.ca/marketplace/opportunities](https://digital.gov.bc.ca/marketplace/opportunities)
 
 
 ### Licence
